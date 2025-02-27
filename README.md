@@ -2,6 +2,8 @@
 
 ##  Description du Projet
 Ce projet vise à analyser un dataset contenant divers **indicateurs de santé, bien-être et vie quotidienne** afin de **classifier les individus en trois catégories** selon leur état de santé.
+## Objectif :
+Optimiser la classification des individus et analyser les tendances de santé à partir des données disponibles. Identifier les profils **à risque** et mieux comprendre l’impact des différents facteurs sur l’état de santé.
 
 ##  Structure du Dataset
 Le dataset comporte **10 000 observations** et **20 variables explicatives** représentant des indicateurs clés tels que :
